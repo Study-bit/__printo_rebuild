@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   id="vector"
+   version="1.1"
+   sodipodi:docname="folder.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs49">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1029"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1025"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect856"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview47"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="18.856181"
+     inkscape:cx="10.553569"
+     inkscape:cy="12.833988"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector">
+    <inkscape:grid
+       type="xygrid"
+       id="grid131" />
+  </sodipodi:namedview>
+  <path
+     style="fill:rgba(10, 64, 49,5);stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 2,4 V 22 H 22 V 4 H 10 L 8,2 H 4 Z"
+     id="path854"
+     inkscape:path-effect="#path-effect856"
+     inkscape:original-d="m 2,4 c 0,0 0,18 0,18 0,0 20,0 20,0 C 22,22 22,4 22,4 22,4 10,4 10,4 10,4 8,2 8,2 8,2 4,2 4,2 4,2 2,4 2,4 Z" />
+  <path
+     style="fill:#ffffff;stroke:rgba(11, 115, 87,1);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+     d="M 4,11 7,8 H 19 V 20 H 4 Z"
+     id="path1027"
+     inkscape:path-effect="#path-effect1029"
+     inkscape:original-d="m 4,11 c 0,0 3,-3 3,-3 0,0 12,0 12,0 0,0 0,12 0,12 0,0 -15,0 -15,0 0,0 0,-9 0,-9 z" >
+     <animateTransform 
+         attributeName="transform" 
+         type="translate"
+         id="two"
+         begin="0s;two.end+2s"
+         values="0 0;0 -7;0 -7;0 -7;0 -7;0 0"
+         dur="500ms"
+      />
+  </path>
+
+  <path
+     style="fill:rgba(11, 115, 87,1);stroke:none;stroke-width:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     d="M 2,6 H 22 V 22 H 2 Z"
+     id="path1023"
+     inkscape:path-effect="#path-effect1025"
+     inkscape:original-d="M 2 6 L 2 6 C 8.667 6 15.333 6 22 6 C 22 11.333 22 16.667 22 22 C 15.333 22 8.667 22 2 22 C 2 16.667 2 11.333 2 6" >
+     <animate
+         attributeName="d"
+         dur="500ms"
+         id="one"
+         begin="0s;one.end+2s"
+         values="M 2 6 L 2 6 C 8.667 6 15.333 6 22 6 C 22 11.333 22 16.667 22 22 C 15.333 22 8.667 22 2 22 C 2 16.667 2 11.333 2 6;M 1 9 L 12 9 C 15.667 9 19.333 9 23 9 C 22.667 13.333 22.333 17.667 22 22 C 15.333 22 8.667 22 2 22 C 1.667 17.667 1.333 13.333 1 9;M 1 9 L 12 9 C 15.667 9 19.333 9 23 9 C 22.667 13.333 22.333 17.667 22 22 C 15.333 22 8.667 22 2 22 C 1.667 17.667 1.333 13.333 1 9;M 1 9 L 12 9 C 15.667 9 19.333 9 23 9 C 22.667 13.333 22.333 17.667 22 22 C 15.333 22 8.667 22 2 22 C 1.667 17.667 1.333 13.333 1 9;M 1 9 L 12 9 C 15.667 9 19.333 9 23 9 C 22.667 13.333 22.333 17.667 22 22 C 15.333 22 8.667 22 2 22 C 1.667 17.667 1.333 13.333 1 9;M 2 6 L 2 6 C 8.667 6 15.333 6 22 6 C 22 11.333 22 16.667 22 22 C 15.333 22 8.667 22 2 22 C 2 16.667 2 11.333 2 6"
+      />
+     
+  </path>
+</svg>

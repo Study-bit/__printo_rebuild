@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Printo</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="server">Server</string>
+    <string name="btn_text">start server</string>
+    <string name="title_activity_server">Server</string>
+    <string name="qr">QR</string>
+    <string name="qr_code">QrCode</string>
+    <string name="link">OR visit : </string>
+    <string name="makers"><![CDATA[B.S.N & A.R]]></string>
+    <string name="notice_heading">android 11 notice</string>
+    <string name="open_setting">open setting</string>
+    <string name="notice">android 11 require spacial storage permission to manage the file this app would not work without this .</string>
+</resources>
